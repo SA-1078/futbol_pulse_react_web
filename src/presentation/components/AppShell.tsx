@@ -40,7 +40,7 @@ export function AppShell() {
             className="flex items-center gap-2 font-bold text-primary"
           >
             <Trophy className="h-5 w-5" />
-            <span>Fútbol Pulse</span>
+            <span>Fútbol Pulse SANTIAGO COLIMBA</span>
           </Link>
 
           <Separator orientation="vertical" className="h-6 hidden md:block" />
